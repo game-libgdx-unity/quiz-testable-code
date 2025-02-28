@@ -1,3 +1,5 @@
+Video explaination: https://youtu.be/oIs4GoUicl8
+
 Real-Time Quiz challenge
 How to run the source code:
 Clone the project, go to the root folder and run
