@@ -3,12 +3,13 @@ Video explaination: https://youtu.be/oIs4GoUicl8
 Real-Time Quiz challenge
 How to run the source code:
 Clone the project, go to the root folder and run
+```
 pnpm i   to install npm packages
 pnpm run dev   to start the dev server
 pnpm run build   to build the server app
 pnpm run start   to start the built app
 pnpm run test  to run all the tests (unit tests and integration tests)
-
+```
 ## Requirement documentation:
 Part 1: System Design
 System Design Document:
