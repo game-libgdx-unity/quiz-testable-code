@@ -1,3 +1,5 @@
+The goal is to create a clean but robust coding style to firmly develop new features while still having a maintainable and testable code that gives developers confidence when they modify source code.
+
 Video explaination: https://youtu.be/oIs4GoUicl8
 
 Real-Time Quiz challenge
